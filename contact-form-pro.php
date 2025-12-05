@@ -6,7 +6,7 @@
  * Version: 1.0.0
  * Author: Mahfuz Khan
  * License: GPL v2 or later
- * Text Domain: wp-secure-forms-demo
+ * Text Domain: contact-form-pro
  */
 
 
